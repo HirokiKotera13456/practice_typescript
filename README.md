@@ -9,6 +9,7 @@ const user = {
   age: age,
   };
 
+  //修正後
   const user = {
   name,
   age: age,
