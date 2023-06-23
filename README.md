@@ -8,4 +8,9 @@ const user = {
   name: name,
   age: age,
   };
+
+  const user = {
+  name,
+  age: age,
+  };
 ```
